@@ -1,6 +1,6 @@
 # Awesome-SQL-IDE-Cloud
 
-# Top SQL IDE Cloud Platforms Ecosystem
+## Top SQL IDE Cloud Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Cloud/Web SQL Editors, Collaborative Querying, Database Exploration, Shared Workspaces & AI-Assisted SQL*
 **Last updated: August 2026**

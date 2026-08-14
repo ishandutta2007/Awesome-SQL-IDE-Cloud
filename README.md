@@ -20,35 +20,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[JetBrains DataGrip / DataGrip Gateway](https://www.jetbrains.com/datagrip/)**  
-  Professional SQL IDE from JetBrains with deep code intelligence, refactoring, multi-database support, and remote/gateway options for cloud and team workflows.
 
-- **[Hex](https://hex.tech/)**  
-  Collaborative data workspace combining SQL, Python, and notebooks with real-time multiplayer editing, published apps, and strong AI-assisted analysis features.
-
-- **[Outerbase](https://www.outerbase.com/)**  
-  Modern, collaborative database GUI and SQL IDE focused on clean UX, multi-database support, and team-friendly cloud experiences.
-
-- **[PopSQL](https://popsql.com/)**  
-  Collaborative SQL editor known for shared queries, team libraries, and cloud-based workflows (note: platform developments should be verified for ongoing availability).
-
-- **[TablePlus Cloud / TablePlus](https://tableplus.com/)**  
-  Fast, native-feeling database client with cloud and team-oriented offerings for quick querying and schema exploration across popular engines.
-
-- **[SQLGate Cloud](https://www.sqlgate.com/)**  
-  Cloud-capable SQL client and IDE supporting multiple databases with management and query features.
-
-- **[Retool Database IDE / Retool](https://retool.com/)**  
-  Low-code platform with strong built-in database querying, editing, and internal-tool capabilities that function as a practical SQL workbench.
-
-- **[NocoDB SQL / NocoDB](https://nocodb.com/)**  
-  Open-core no-code database platform that includes SQL interfaces and spreadsheet-like views on top of real databases.
-
-- **[SeekWell](https://seekwell.io/)**  
-  SQL-focused tool aimed at analysts and teams for writing, sharing, and operationalizing queries (often integrated with spreadsheets and collaboration flows).
-
-- **[Metabase SQL Editor](https://www.metabase.com/)**  
-  Open-source business intelligence platform whose native SQL editor supports saved questions, visualization, and team sharing of queries.
+| Platform | Description | Pricing (Starting Tier) | Free Tier Limit / Trial |
+| :--- | :--- | :--- | :--- |
+| **[JetBrains DataGrip / DataGrip Gateway](https://www.jetbrains.com/datagrip/)** | Professional SQL IDE from JetBrains with deep code intelligence, refactoring, multi-database support, and remote/gateway options for cloud and team workflows. | $99/year (Individual Commercial) | 30-day full-feature trial; Free forever for non-commercial use |
+| **[Hex](https://hex.tech/)** | Collaborative data workspace combining SQL, Python, and notebooks with real-time multiplayer editing, published apps, and strong AI-assisted analysis features. | $36/editor/month (Professional) | 5 notebooks, solo use, small compute profile |
+| **[Outerbase](https://www.outerbase.com/)** | Modern, collaborative database GUI and SQL IDE focused on clean UX, multi-database support, and team-friendly cloud experiences. | $24/user/month (Pro plan) | Usage-based constraints on API invocations and connected bases |
+| **[PopSQL](https://popsql.com/)** | Collaborative SQL editor known for shared queries, team libraries, and cloud-based workflows. | $19/editor/month (Premium) | 10 queries, 10 dbt actions, 2 connections, 2 dashboards |
+| **[TablePlus Cloud / TablePlus](https://tableplus.com/)** | Fast, native-feeling database client with cloud and team-oriented offerings for quick querying and schema exploration across popular engines. | $99 one-time perpetual license | 2 open tabs, 2 open windows, 2 advanced filters (No time limit) |
+| **[SQLGate Cloud](https://www.sqlgate.com/)** | Cloud-capable SQL client and IDE supporting multiple databases with management and query features. | $15/month (Single DB) to $40/month (Suite) | 1 concurrent session, 1 open window, 1 tab, 5 concurrent executions |
+| **[Retool Database IDE / Retool](https://retool.com/)** | Low-code platform with strong built-in database querying, editing, and internal-tool capabilities that function as a practical SQL workbench. | $10/user/month (Team plan) | 5GB storage, 1,000 queries/min, 5 users, 500 workflow runs/month |
+| **[NocoDB SQL / NocoDB](https://nocodb.com/)** | Open-core no-code database platform that includes SQL interfaces and spreadsheet-like views on top of real databases. | Paid Enterprise plans available | Cloud Free limits: 50,000 records, 3 editors, 100,000 API calls/month |
+| **[SeekWell](https://seekwell.io/)** | SQL-focused tool aimed at analysts and teams for writing, sharing, and operationalizing queries (Note: Shut down July 31, 2026). | Service shut down | Historically: 3 users, 500 manual runs/month |
+| **[Metabase SQL Editor](https://www.metabase.com/)** | Open-source business intelligence platform whose native SQL editor supports saved questions, visualization, and team sharing of queries. | $100/month (Cloud Starter) | Open Source Edition is free & self-hosted (No artificial usage limits) |
 
 ## Open-Source GitHub Projects
 - **[DBeaver / CloudBeaver](https://github.com/dbeaver/dbeaver)**  

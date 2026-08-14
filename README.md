@@ -34,7 +34,7 @@ This repository tracks notable 🏢 **SaaS platforms** and 💻 **open-source pr
 
 ## 💻 Open-Source GitHub Projects
 
-| Repo | Stars | Description |
+| Repo | Github_Stars | Description |
 | :--- | :--- | :--- |
 | **[supabase/supabase](https://github.com/supabase/supabase)** | [![GitHub Repo stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers) | The open source Firebase alternative with a full-fledged built-in SQL editor. |
 | **[nocodb/nocodb](https://github.com/nocodb/nocodb)** | [![GitHub Repo stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | Open Source Airtable Alternative with powerful SQL viewing capabilities. |
